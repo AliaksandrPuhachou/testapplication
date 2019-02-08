@@ -1,0 +1,16 @@
+<div class="container">
+    <h2>Table</h2>
+    <div class="form-group">
+        <input type="text"
+               class="form-control input-symbol"
+               placeholder="Symbol Name"
+               ng-model="vm.symbolName">
+        <button type="button"
+                class="btn btn-primary"
+                ng-click="vm.addSymbol()"
+                ng-disabled="!vm.symbolName">
+            Add Symbol
+        </button>
+    </div>
+    <table></table>
+</div>
