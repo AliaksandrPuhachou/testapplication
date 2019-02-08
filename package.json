@@ -1,0 +1,19 @@
+{
+  "name": "testapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliaksandrPuhachou/testapplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliaksandrPuhachou/testapplication/issues"
+  },
+  "homepage": "https://github.com/AliaksandrPuhachou/testapplication#readme"
+}
